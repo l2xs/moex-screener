@@ -17,3 +17,6 @@ python moex2_ticker_dump.py --dump-candles "TICKER"           # Skips the board 
 The last 50 hourly candles (OHLCV) with every indicator attached, in a clean table.
 Saves the same table to TICKER_60min_candles.csv automatically (The table can be used with LLMs, since they can't reach MOEX ISS themselves)
 Flags: --rows 100 for more history, --out path.csv to control the filename, and it still respects --board/--interval if you ever want a different board or timeframe.
+
+Support further development:
+USDT TRC20: TZ3Xc2j2Qu9DpLP6VnCJ2GzLM8D9VN85XW
