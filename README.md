@@ -1,5 +1,5 @@
 # moex-screener
-Helps find stocks on MOEX with available entry points for trades
+Helps find stocks on Moscow Exchange (MOEX) with available entry points for trades
 
 How to use
 
