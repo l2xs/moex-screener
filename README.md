@@ -7,8 +7,8 @@ Use the software at your own risk. The authors and affiliates assume no responsi
 
 How to use
 
-Install Python from python.org
-Open Windows PowerShell
+Install Python from python.org;
+Open Windows PowerShell;
 cd "path to moex-screener.py"
 
 python moex-screener.py
