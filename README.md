@@ -11,7 +11,7 @@ Install Python from python.org;
 Open Windows PowerShell;
 cd "path to moex-screener.py"
 
-python moex-screener.py
+python moex-screener.py       # Scans for stocks with available entry points
 
 python moex2_ticker_dump.py --dump-candles "TICKER"           # Skips the board scan entirely and, for one ticker, prints: A snapshot block (last close, EMA9/21/200, RSI, MACD/signal/hist, Bollinger levels, and now ATR(14), plus volume vs 20-avg) — the real ATR number that was missing before.
 The last 50 hourly candles (OHLCV) with every indicator attached, in a clean table.
